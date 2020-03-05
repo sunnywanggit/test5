@@ -1,6 +1,6 @@
 <template>
     <div class="hello">
-        <g-button>wo shi button</g-button>
+        <g-button>second push</g-button>
     </div>
 </template>
 
